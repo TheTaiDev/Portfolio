@@ -126,6 +126,7 @@
     grid-template-columns: 1fr;
   }
   .contact__info {
+    justify-content: center;
     text-align: center;
   }
   .contact__form {
