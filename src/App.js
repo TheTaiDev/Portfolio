@@ -25,6 +25,8 @@ function App() {
         <Contact />
 
         <Footer />
+        <button className="btn__click">Click me</button>
+
       </main>
     </div>
   );
